@@ -1,11 +1,15 @@
-# welcome to my first webpage
+                   My first page in HTML
 
-welcome!!
+we created 3 pages stream1 stream2 stream3 and we added all the 
+html editors and there logos
 
-## THIS is heading h1
+we used below selectors
 
-## This is heading h2
+links
 
-### This is heading h3
+anchors
 
-#### This is heading h4
+hoovers
+
+background
+
